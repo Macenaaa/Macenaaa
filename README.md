@@ -3,6 +3,14 @@
 </p>
 
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ---
 
 ## 🧠 Sobre mim
@@ -15,9 +23,3 @@ Sempre buscando novos desafios para crescer como desenvolvedora
 💡mindset: "Aprender. Criar. Evoluir."
 
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake.svg">
-</picture>
