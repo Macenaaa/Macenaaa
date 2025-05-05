@@ -12,6 +12,9 @@ Estudante/Profissional da área de tecnologia
 Sempre buscando novos desafios para crescer como desenvolvedora
 💡mindset: "Aprender. Criar. Evoluir."
 
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Macenaaa/Macenaaa/output/github-contribution-grid-snake-dark.svg">
