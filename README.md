@@ -42,6 +42,10 @@
 </div>
 
 ---
+## 🐍 Snake das Contribuições
+
+![Snake animation](https://github.com/Macenaaa/Macenaaa/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Onde me encontrar
 
