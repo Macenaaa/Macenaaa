@@ -42,13 +42,12 @@
 </div>
 
 ---
-## 🐍 Snake das Contribuições
+## 🐍 Snake das Contribuições (Dark Mode)
 
 ![Snake animation](https://github.com/Macenaaa/Macenaaa/blob/output/github-contribution-grid-snake.svg)
 
+---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
-<p align="center">
-  <a href="mailto:macenajulia07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+📧 macenajulia07@gmail.com
