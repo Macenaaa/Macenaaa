@@ -7,8 +7,8 @@
 
 ## 🧠 Sobre mim
 
-- 👩‍💻 Nome: **Julia Macena**
-- 🌍 Localização: **Brasil**
+- 👩‍💻 **Julia Macena**
+- 🌍 **Jaraguá do Sul-SC,Brasil**
 - 🎯 **Desenvolvedora em formação**, apaixonada por tecnologia e desafios.
 - 🚀 Sempre buscando crescer, evoluir e aprender um commit de cada vez.
 - 💡 **Mindset:** *"Aprender. Criar. Evoluir."*
@@ -42,7 +42,7 @@
 </div>
 
 ---
-## 🐍 Snake das Contribuições (Dark Mode)
+## 🐍 Snake das Contribuições 
 
 ![Snake animation](https://github.com/Macenaaa/Macenaaa/blob/output/github-contribution-grid-snake.svg)
 
