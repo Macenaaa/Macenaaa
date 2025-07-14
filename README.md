@@ -8,8 +8,8 @@
 ## 🧠 Sobre mim
 
 
-- 🌍 **Jaraguá do Sul-SC,Brasil**
-- 🚀 Sempre buscando crescer, evoluir e aprender um commit de cada vez.
+- **Jaraguá do Sul-SC,Brasil**
+-  Sempre buscando crescer, evoluir e aprender um commit de cada vez.
 - 💡 **Mindset:** *"Aprender. Criar. Evoluir."*
 
 ---
