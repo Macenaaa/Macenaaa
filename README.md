@@ -25,13 +25,6 @@
 
 ---
 
-## 💻 Atualmente
-
-- 🌱 Aprendendo: **Front-end, Back-end e Banco de Dados.**
-- 🔭 Trabalhando em: Projetos pessoais e aprimorando meus conhecimentos em desenvolvimento.
-- 🤝 Aberta para colaborar em projetos que ajudem na minha evolução como dev.
-
----
 
 ## 📊 GitHub Stats
 
