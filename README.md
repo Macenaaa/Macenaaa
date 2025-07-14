@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-- **Julia Macena**
+
 - 🌍 **Jaraguá do Sul-SC,Brasil**
 - 🎯 **Desenvolvedora em formação**, apaixonada por tecnologia e desafios.
 - 🚀 Sempre buscando crescer, evoluir e aprender um commit de cada vez.
